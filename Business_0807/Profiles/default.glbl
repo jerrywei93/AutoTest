@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['计划管理', '合同管理']</initValue>
+      <name>first_menu_name</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

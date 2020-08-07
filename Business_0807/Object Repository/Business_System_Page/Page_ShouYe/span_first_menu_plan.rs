@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_first_menu_plan</name>
+   <tag></tag>
+   <elementGuidId>714fd689-d49b-468f-aea2-2810738c9fc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div[2]/ul/li/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;ivu-layout ivu-layout-has-sider layout tablet&quot;]/div[@class=&quot;ivu-layout-sider&quot;]/div[@class=&quot;ivu-layout-sider-children&quot;]/div[@class=&quot;sider shadow dark ivu-fixed-sidemenu&quot;]/div[@class=&quot;overflowHide&quot;]/ul[@class=&quot;ivu-menu ivu-menu-dark ivu-menu-vertical&quot;]/li[@class=&quot;ivu-menu-submenu ivu-menu-opened&quot;]/div[@class=&quot;ivu-menu-submenu-title&quot;]/span[1]/span[1][count(. | //*[(text() = '$(first_menu_name)[1]' or . = '$(first_menu_name)[1]')]) = count(//*[(text() = '$(first_menu_name)[1]' or . = '$(first_menu_name)[1]')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$(first_menu_name)[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;ivu-layout ivu-layout-has-sider layout tablet&quot;]/div[@class=&quot;ivu-layout-sider&quot;]/div[@class=&quot;ivu-layout-sider-children&quot;]/div[@class=&quot;sider shadow dark ivu-fixed-sidemenu&quot;]/div[@class=&quot;overflowHide&quot;]/ul[@class=&quot;ivu-menu ivu-menu-dark ivu-menu-vertical&quot;]/li[@class=&quot;ivu-menu-submenu ivu-menu-opened&quot;]/div[@class=&quot;ivu-menu-submenu-title&quot;]/span[1]/span[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]/ul/li/div/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='业务系统'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='购销计划'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='调入调出计划'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='计划管理']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+   </webElementXpaths>
+</WebElementEntity>
